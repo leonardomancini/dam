@@ -1,0 +1,10 @@
+{
+  "name": "final_tp",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
